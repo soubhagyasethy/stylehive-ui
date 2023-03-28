@@ -3,8 +3,8 @@
 :root {
   --primary-color: #1d4ed8;
   --background-color: #fffcf9;
-  --black-color: #333333;
-  --hover-black: #000;
+  --primary-black-color: #333333;
+  --bg-hover-color: #d7d7d7;
   --error-color: #cc3300;
   --warning-color: #ffcc00;
   --sucess-color: #99cc33;
