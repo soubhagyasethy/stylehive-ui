@@ -4,10 +4,11 @@
   --primary-color: #1d4ed8;
   --background-color: #fffcf9;
   --primary-black-color: #333333;
-  --bg-hover-color: #d7d7d7;
-  --error-color: #cc3300;
+  --grey-color: #d7d7d7;
+  --light-grey-color: #f0f0f0;
+  --error-color: #ff602b;
   --warning-color: #ffcc00;
-  --sucess-color: #99cc33;
+  --success-color: #3de02f;
 }
 
 /* Reset default */
@@ -66,11 +67,16 @@
 }
 
 .small-text {
+  font-size: 1.2rem;
+  line-height: 1.7rem;
+}
+
+.x-small-text {
   font-size: 1rem;
   line-height: 1.5rem;
 }
 
-.x-small-text {
+.xx-small-text {
   font-size: 0.5rem;
   line-height: 1rem;
 }
